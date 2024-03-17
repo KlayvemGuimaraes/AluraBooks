@@ -1,6 +1,8 @@
 # Projetos Alura Oracle - ONE
  > Oracle Next Education Oracle
 
+[Clique aqui para acessar o site](https://klayvemguimaraes.github.io/)
+
 <h2 align="center">Projeto de manipulação de livros | <span span style="color: #f59e0b;">Casa do Código</span></h2>
 
 <div align="center">
@@ -12,6 +14,3 @@
  - CSS
  - Javascript
  - Json
- 
-
-[Clique aqui para acessar](https://klayvemguimaraes.github.io/)
