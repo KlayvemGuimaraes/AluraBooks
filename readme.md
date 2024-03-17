@@ -14,4 +14,4 @@
  - Json
  
 
-[Clique aqui para acessar](https://klayvemguimaraes.github.io/AluraBooks/)
+[Clique aqui para acessar](https://klayvemguimaraes.github.io/)
