@@ -4,9 +4,7 @@
 <h2 align="center">Projeto de manipulação de livros | <span span style="color: #f59e0b;">Casa do Código</span></h2>
 
 <div align="center">
-    <img height="200px" src="./imagens/imageWebsiteHome.png"></img>
-    <img height="210px" src="./imagens/imageWebsite.png"></img>
-    <img height="200px" src="./imagens/image.png"></img>
+    <img height="500px" src="./imagens/imageWebsite.png"></img>
 </div>
 
 ### Linguagens utilizadas
